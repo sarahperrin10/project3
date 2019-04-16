@@ -2,6 +2,7 @@
 ------
 
 ###  Most Popular Shows on Netflix by State 
+![Sarah Perrin](images/screenshot.png?raw=true "Sarah Perrin")
 
 For this project, I wanted to create an interactive graphic based on data I found regarding the most popular shows on Netflix by state. This data, compiled by HighSpeedInternet.com, was found by using Google Trends to determine the most searched Netflix shows. In order to see the data, the user must roll over the state's abbreviation on the map with their mouse. This will then display the image of the show on top of the mouse, and the show's name at the top of the page.
 
